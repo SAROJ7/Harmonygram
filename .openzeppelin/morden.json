@@ -1,0 +1,46 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "name.../Decentragram": [
+      {
+        "address": "0x7A386CF7913A8775891f872D66807A0e57E355Dc",
+        "kind": "NonProxy",
+        "bytecodeHash": "ea4f8d6ba0a4b3ae60e4b2acc2bdbd20002ff99c7d4430479864b1537389c81a"
+      }
+    ],
+    "name.../Harmonygram": [
+      {
+        "address": "0x71f0Ed8E0cB434368daB596e5B5C560Fefb2ce95",
+        "kind": "NonProxy",
+        "bytecodeHash": "97b0c5f7561f82a24cd92a6e56c3ccdcf10cd9b717d4d495bd7eda69e47eef0f"
+      },
+      {
+        "address": "0x43aF7b07E35f0721dDFE125eC8dF0C01ed1E3AFc",
+        "kind": "NonProxy",
+        "bytecodeHash": "ad29124c4cdbdc794ef5dd30b1d96d144c7ab69674145eac91d9082a4176926d"
+      },
+      {
+        "address": "0xd56BDC025f0a7BD91E3fb3824Cc2Ad97586f92DD",
+        "kind": "NonProxy",
+        "bytecodeHash": "17df68c9619d295c5d98faf698e8b33505f197da857051719c5e0e4837433d61"
+      },
+      {
+        "address": "0x5cA2dA768324510e3F4de09C51Ae7F91E7BCA371",
+        "kind": "NonProxy",
+        "bytecodeHash": "8faf25a5a043d9a294db27fe0f55ddc03749c25597a962cea7f7839dd8105067"
+      },
+      {
+        "address": "0x39afd42F8A2227897a64EB9A644672Dda970eE95",
+        "kind": "NonProxy",
+        "bytecodeHash": "559267acf1f493cf63a07cc19d53f9b970da3ed9e4e537eb8a12edba370c1e80"
+      },
+      {
+        "address": "0x3bE7AE33bF5C7A1A5C37Ce780A0A9Ff595dD438F",
+        "kind": "NonProxy",
+        "bytecodeHash": "bd9effd73ae35107182d5ad89657583b4e1efc25d2fce99c9edfd3c2e417f91b"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
